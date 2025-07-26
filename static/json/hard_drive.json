@@ -332,6 +332,11 @@
     "sort_option": 0,
     "sort_order": 0
   },
+  {
+  "path": "html/games/PixelSnowballFight.exe/index.html",
+  "name": "Pixel Snowball Fight.exe",
+  "icon": "❄️"
+},
   "8zX2oGBMVx5CTM52LRBBbE": {
     "id": "8zX2oGBMVx5CTM52LRBBbE",
     "type": "file",
